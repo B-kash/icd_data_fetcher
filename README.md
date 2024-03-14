@@ -4,7 +4,7 @@
 
 
 ## Running for first time
-
+- replace the `client_id` and `client_secret` on `index.js` with your own. These are just fake text.
 - `npm install` to install dependencies
 - `node ./index.js`
 
